@@ -17,4 +17,4 @@ for key,value in my_dict.items():
         copy_dict[key] = value
 
 
-print("\nDictionary after removing duplicate values are:",copy_dict
+print("\nDictionary after removing duplicate values are:",copy_dict) 
